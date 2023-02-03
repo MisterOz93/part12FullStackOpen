@@ -1,0 +1,17 @@
+Script started on 2023-02-03 09:53:29-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;michael@michael-VirtualBox: ~[01;32mmichael@michael-VirtualBox[00m:[01;34m~[00m$ docker o[Kcontainer [K run -it ubuntu bash
+[?2004lUnable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+
+[1A[2K677076032cca: Pulling fs layer [1B[1A[2K677076032cca: Downloading  301.4kB/29.53MB[1B[1A[2K677076032cca: Downloading  2.141MB/29.53MB[1B[1A[2K677076032cca: Downloading  5.479MB/29.53MB[1B[1A[2K677076032cca: Downloading  8.842MB/29.53MB[1B[1A[2K677076032cca: Downloading  11.58MB/29.53MB[1B[1A[2K677076032cca: Downloading   12.5MB/29.53MB[1B[1A[2K677076032cca: Downloading  16.17MB/29.53MB[1B[1A[2K677076032cca: Downloading  18.94MB/29.53MB[1B[1A[2K677076032cca: Downloading  21.42MB/29.53MB[1B[1A[2K677076032cca: Downloading  24.79MB/29.53MB[1B[1A[2K677076032cca: Downloading  27.86MB/29.53MB[1B[1A[2K677076032cca: Verifying Checksum [1B[1A[2K677076032cca: Download complete [1B[1A[2K677076032cca: Extracting  327.7kB/29.53MB[1B[1A[2K677076032cca: Extracting  1.966MB/29.53MB[1B[1A[2K677076032cca: Extracting  3.277MB/29.53MB[1B[1A[2K677076032cca: Extracting  4.915MB/29.53MB[1B[1A[2K677076032cca: Extracting  5.898MB/29.53MB[1B[1A[2K677076032cca: Extracting  7.209MB/29.53MB[1B[1A[2K677076032cca: Extracting  8.192MB/29.53MB[1B[1A[2K677076032cca: Extracting  9.503MB/29.53MB[1B[1A[2K677076032cca: Extracting  10.49MB/29.53MB[1B[1A[2K677076032cca: Extracting  12.12MB/29.53MB[1B[1A[2K677076032cca: Extracting  14.42MB/29.53MB[1B[1A[2K677076032cca: Extracting  16.06MB/29.53MB[1B[1A[2K677076032cca: Extracting  18.02MB/29.53MB[1B[1A[2K677076032cca: Extracting  19.33MB/29.53MB[1B[1A[2K677076032cca: Extracting  20.97MB/29.53MB[1B[1A[2K677076032cca: Extracting  22.28MB/29.53MB[1B[1A[2K677076032cca: Extracting  23.92MB/29.53MB[1B[1A[2K677076032cca: Extracting  25.23MB/29.53MB[1B[1A[2K677076032cca: Extracting  25.56MB/29.53MB[1B[1A[2K677076032cca: Extracting  25.89MB/29.53MB[1B[1A[2K677076032cca: Extracting  26.87MB/29.53MB[1B[1A[2K677076032cca: Extracting  28.18MB/29.53MB[1B[1A[2K677076032cca: Extracting  29.16MB/29.53MB[1B[1A[2K677076032cca: Extracting  29.49MB/29.53MB[1B[1A[2K677076032cca: Extracting  29.53MB/29.53MB[1B[1A[2K677076032cca: Pull complete [1BDigest: sha256:9a0bdde4188b896a372804be2384015e90e3f84906b750c1a53539b585fbbe7f
+Status: Downloaded newer image for ubuntu:latest
+[?2004h]0;root@f3b48ab65c47: /root@f3b48ab65c47:/# mkdir usr/src/app
+[?2004l[?2004h]0;root@f3b48ab65c47: /root@f3b48ab65c47:/# touch usr/s
+sbin/  share/ src/   
+]0;root@f3b48ab65c47: /root@f3b48ab65c47:/# touch usr/src/app/indexj .js
+[?2004l[?2004h]0;root@f3b48ab65c47: /root@f3b48ab65c47:/# [Kexit
+[?2004lexit
+[?2004h]0;michael@michael-VirtualBox: ~[01;32mmichael@michael-VirtualBox[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2023-02-03 09:56:09-04:00 [COMMAND_EXIT_CODE="0"]
