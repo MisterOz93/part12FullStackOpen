@@ -7,3 +7,5 @@ Content-Type: application/json
 {"text": "test"}
 
 #####
+
+GET http://localhost:3000/todos/63e160a144a52e3b700164e5
