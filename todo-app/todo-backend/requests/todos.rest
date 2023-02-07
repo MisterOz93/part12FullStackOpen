@@ -9,3 +9,8 @@ Content-Type: application/json
 #####
 
 GET http://localhost:3000/todos/63e160a144a52e3b700164e5
+
+
+######
+
+PUT http://localhost:3000/todos/63e160a144a52e3b700164e5
