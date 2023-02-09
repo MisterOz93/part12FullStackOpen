@@ -1,7 +1,8 @@
 import axios from 'axios'
+import { REACT_APP_BACKEND_URL } from './config'
 
 const apiClient = axios.create({
-  baseURL: process.env.REACT_APP_BACKEND_URL,
+  baseURL: REACT_APP_BACKEND_URL,
 })
 
 export default apiClient

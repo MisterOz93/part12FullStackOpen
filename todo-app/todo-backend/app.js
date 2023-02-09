@@ -9,7 +9,7 @@ const redisRouter = require('./routes/redis');
 const app = express();
 
 app.use(cors());
-
+app.use(express.static('../todo-frontend/build'))
 app.use(logger('dev'));
 app.use(express.json());
 
